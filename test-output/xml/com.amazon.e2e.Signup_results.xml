@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.011">
+  <properties />
+  
+  
+            <testcase name="signup" time="0.011" classname="com.amazon.e2e.Signup" />
+      
+</testsuite>

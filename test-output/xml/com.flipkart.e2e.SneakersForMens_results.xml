@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="12"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.026">
+  <properties />
+  
+  
+            <testcase name="signIn" time="0.002" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="makePaymentAgain" time="0.001" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="signUp" time="0.011" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="replaceOrder" time="0.001" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="returnOrder" time="0.002" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="searchProducts" time="0.002" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="sneakersForMens" time="0.001" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="makePayment" time="0.001" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="custumerFeedback" time="0.000" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="orderPlaced" time="0.001" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="addShippingDetails" time="0.003" classname="com.flipkart.e2e.SneakersForMens" />
+                <testcase name="addToCart" time="0.001" classname="com.flipkart.e2e.SneakersForMens" />
+      
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.003">
+  <properties />
+  
+  
+            <testcase name="signup" time="0.001" classname="com.flipkart.e2e.SignupFlow" />
+                <testcase name="signup" time="0.001" classname="com.flipkart.e2e.SignupFlow" />
+                <testcase name="signup" time="0.001" classname="com.flipkart.e2e.SignupFlow" />
+      
+</testsuite>

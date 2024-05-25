@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="12"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.017">
+  <properties />
+  
+  
+            <testcase name="makePayment" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="searchProducts" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="addShippingDetails" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="apple14ProMax" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="signIn" time="0.003" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="returnOrder" time="0.003" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="replaceOrder" time="0.002" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="checkout" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="orderPlaced" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="Singup" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="addToCart" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+                <testcase name="custumerFeedback" time="0.001" classname="com.flipkart.e2e.Mobiles" />
+      
+</testsuite>
